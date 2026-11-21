@@ -1,0 +1,18 @@
+{
+  "short_name": "Device Care",
+  "name": "Device Care - Mobile Performance & Resource AI",
+  "description": "AI-Powered Mobile Device Performance and Resource Management App",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "./",
+  "background_color": "#0a0f1d",
+  "theme_color": "#0a0f1d",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "./"
+}
